@@ -1,1 +1,7 @@
-# rnut-metadata
+{
+  "name": "RNUT",
+  "symbol": "RNUT",
+  "description": "it really is $RNUT on that rocket, then by all indications this will run as high as $PNUT",
+  "image": "https://raw.githubusercontent.com/Hoodlums453/rnut-metadata/main/RNUT.jpg",
+  "twitter": "https://x.com/i/communities/1998304466487972350"
+}
